@@ -1,38 +1,66 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+  {
+    "name": "Hallownest",
+    "leaderName": "Le roi pâle",
+    "adjective": [
+      "Hallownien",
+      "Mentes",
+      "Araignés"
+    ],
+    "declaringWar": "Vous êtes infectés par la radiance, il est notre devoir d'empêcher sa propagation...",
+    "attacked": "L'infection vous A fait perdre la raison! Nous allons empêcher sa propagation",
+    "defeated": "Hallownest est tombé, face à la lumière aveuglant leurs rèves.",
+    "introduction": "Salutations !",
+    "neutralHello": "Que souhaitez-vous ?",
+    "neutralLetsHearIt": [
+      "Qu'avez vous a dire?"
+    ],
+    "neutralNo": [
+      "Nous n'acceptons pas.",
+      "Non."
+    ],
+    "neutralYes": [
+      "Nous acceptons."
+    ],
+    "hateHello": "Que signifie votre infecte présence ?",
+    "hateLetsHearIt": [
+      "Parlez avant de regretter être venu a ce village!",
+      "Dites nous ce que vous voulez de nous et peut-être que Hallownest vous accordera son attention"
+    ],
+    "hateNo": [
+      "Jamais nous accepterions d'échanger avec des créatures en votre genre!",
+      "C'était une erreur de vous avoir accordé notre précieux temps",
+      "Vous avez été assez fous pour venir ici avec des paroles aussi idiotes et esperer ressortir avec notre faveur! Considérez vous heureux de ressortis sans avoir été tranché par nos pinces."
+    ],
+    "hateYes": [
+      "Peut être n'etes vous pas si fous finalement.",
+      "Nous acceptons. Maintenant partez!",
+      "Très bien... Mais sachez que nous acceptons seulement a cause de notre manque de ressources."
+    ],
+    "afterPeace": "Cette guerre ne mene nulle part. Il semble que l'infection est assez contenue dans votre royaume. Pour l'instant dumoins...",
+    "tradeRequest": "Le royaume d'Halownest requiert votre aide. Aucun prix n'est trop grand.",
+    "outerColor": [
+      211,
+      211,
+      211
+    ],
+    "innerColor": [
+      35,
+      41,
+      122
+    ],
+    "unique": "MANIFEST_DESTINY",
+    "cities": [
+      "Le palais blanc",
+      "Cité des larmes",
+      "Dirtmouth",
+      "Village des mentes",
+      "Les routes oubliées",
+      "Le nid profond",
+      "Les jardins de la reine",
+      "Les pics de crystal",
+      "La ruche",
+      "Le repos éternel"
+    ]
+  }
 ]
